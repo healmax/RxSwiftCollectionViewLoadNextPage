@@ -6,7 +6,6 @@ target 'RxSwiftCollectionViewLoadNextPage' do
   use_frameworks!
 
   # Pods for RxSwiftCollectionViewLoadNextPage
-  pod 'RealmSwift'
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'RxFeedback'
